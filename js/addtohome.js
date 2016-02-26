@@ -24,7 +24,7 @@ else {
 // Framework7 Initialize Code below Get Rid Of The 
 // var myApp = new Framework7();
 // Already In Your my-app.js file and replace it with this one below
-
+/*
 // Initialize your app
 if ((window.navigator.hasOwnProperty('standalone') && window.navigator.standalone)) {  
     	var myApp = new Framework7();
@@ -32,3 +32,5 @@ if ((window.navigator.hasOwnProperty('standalone') && window.navigator.standalon
 else {
     document.body.setAttribute('class', 'install');
 }
+
+*/
