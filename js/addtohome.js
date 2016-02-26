@@ -31,10 +31,4 @@ if ((window.navigator.hasOwnProperty('standalone') && window.navigator.standalon
 }
 else {
     document.body.setAttribute('class', 'install');
-<<<<<<< HEAD
-}
-
-*/
-=======
 }*/
->>>>>>> master
